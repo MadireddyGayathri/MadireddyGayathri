@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Enthusiast & Java Backend Developer</h3>
 
 🎓 Hi, I’m Gayathri Madireddy, a final-year B.Tech student at Shri Vishnu Engineering College for Women. I’m a highly motivated and passionate individual, committed to building a career in software development.  
-Throughout my academic journey, I’ve gained strong foundations in:Computer Programming,Data Structures and Algorithms,Database Management Systems ,Web Development.I enjoy learning new technologies, solving real-world problems, and continuously improving my skills through hands-on projects and hackathons.
+Throughout my academic journey, I’ve gained strong foundations in Computer Programming,Data Structures and Algorithms,Database Management Systems ,Web Development.I enjoy learning new technologies, solving real-world problems, and continuously improving my skills through hands-on projects and hackathons.
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gayathri-madireddy-6629ba256/)
 
