@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayathri Madireddy</h1>
 <h3 align="center">Frontend Enthusiast & Java Backend Developer</h3>
 
-🎓 Hi, I’m Gayathri Madireddy, a final-year B.Tech student at Shri Vishnu Engineering College for Women.  
-I’m a highly motivated and passionate individual, committed to building a career in software development.  
+🎓 Hi, I’m Gayathri Madireddy, a final-year B.Tech student at Shri Vishnu Engineering College for Women. I’m a highly motivated and passionate individual, committed to building a career in software development.  
 
 Throughout my academic journey, I’ve gained strong foundations in:
 - Computer Programming
